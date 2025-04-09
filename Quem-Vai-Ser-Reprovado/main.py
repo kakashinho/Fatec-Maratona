@@ -1,23 +1,26 @@
+resp = int(input())
 
-r = int(input())
+pessoas_e_notas = []
+instancia = 0
 
-lista_alunos = []
-nomes = []
-notas = []
-
-for i in range(r):
+for i in range(resp):
     entrada = input()
-    nomes,notas = entrada.split()
-    lista_alunos.append({
-        "nome" : nomes,
-        "nota": int(notas)
-    })
-    if(i == len(r - 1) )
+    nome, nota = entrada.split()
+    pessoas_e_notas.append([nome, int(nota), int(instancia)])
+    print(pessoas_e_notas)
+    instancia += 1
 
-alunos_ordenados = sorted(lista_alunos, key=lambda x: x["nota"])
+ordenado = sorted(pessoas_e_notas, key=lambda x: x[1], reverse=True)
 
-print(alunos_ordenados)
+if(ordenado[resp - 2][1] == ordenado[resp - 1][1]):
+    new_list = []
+    new_list.append(ordenado[resp - 2][0])
+    new_list.append(ordenado[resp - 1][0])
 
-    
-    
-    
+    new_list = sorted(new_list, key=lambda x: x[0], reverse=True)
+
+    ordenado[resp - 2][0] = new_list[1]
+    ordenado[resp - 1][0] = new_list[0]
+
+print("Instancia " + str(ordenado[-1][2]))
+print(ordenado[-1][0])
