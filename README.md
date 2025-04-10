@@ -5,5 +5,3 @@
 * SPOJBR:
     PLACAR - Quem vai ser reprovado
     CONTAGEM - Não é mais um joguinho Canadense
-
-## Lista de Problemas Resolvidos:  
