@@ -1,5 +1,6 @@
 #-------------------- TESTE ----------------------------
 #def bolsa_binaria(comp,bolsas,qtd1,lucro1,qtd2,lucro2,qtd3,lucro3):
+
 comp,bolsas = input().split()
 qtd1,lucro1 = input().split()
 qtd2,lucro2 = input().split()
