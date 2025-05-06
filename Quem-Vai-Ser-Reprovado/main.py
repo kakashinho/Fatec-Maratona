@@ -1,13 +1,12 @@
 resp = int(input())
 
 pessoas_e_notas = []
-instancia = 0
+instancia = 1
 
 for i in range(resp):
     entrada = input()
     nome, nota = entrada.split()
     pessoas_e_notas.append([nome, int(nota), int(instancia)])
-    print(pessoas_e_notas)
     instancia += 1
 
 ordenado = sorted(pessoas_e_notas, key=lambda x: x[1], reverse=True)
@@ -22,5 +21,8 @@ if(ordenado[resp - 2][1] == ordenado[resp - 1][1]):
     ordenado[resp - 2][0] = new_list[1]
     ordenado[resp - 1][0] = new_list[0]
 
+print(ordenado)
 print("Instancia " + str(ordenado[-1][2]))
 print(ordenado[-1][0])
+print("")
+
