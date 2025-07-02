@@ -1,0 +1,35 @@
+8
+Aldo Beto
+Aldo Drica
+Beto Cris
+Beto Ella
+Drica Ella
+Ella Fran
+Ella Gigi
+Isa Katy 
+-
+Aldo Beto
+Aldo Cris
+Aldo Drica
+Aldo Ella
+Aldo Fran
+Aldo Gigi
+Aldo Isa
+Aldo Katy
+Beto Aldo
+* *
+Beto
+Cris
+Cris
+Cris
+Cris
+Drica
+Drica
+Fran 
+Fran
+Gigi
+Isa
+Katy
+Isa
+Katy
+* *
