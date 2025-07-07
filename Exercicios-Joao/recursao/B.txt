@@ -1,0 +1,6 @@
+Link: https://bruno.dac.ufla.br/aulas/lp2/exercicios.html?utm_source=chatgpt.com
+
+4 - fibonacci: recebe um número inteiro positivo e retorna o n-ésimo elemento da sequência de Fibonacci.
+
+8 - maior: recebe uma lista de números e retorna o maior
+obs.: não usar a função max

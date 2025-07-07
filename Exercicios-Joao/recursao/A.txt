@@ -1,0 +1,31 @@
+link: https://www.huicode.com.br/p/lista-exercicios-resolvidos-sobre.html?utm_source=chatgpt.com
+
+1 - Somatória Recursiva de 1 a N
+Escreva uma função recursiva que calcule a somatória de todos os números de 1 a N.
+
+2 - Contar Dígitos de um Número com Recursão
+Escreva uma função recursiva que conte quantos dígitos existem em um número inteiro positivo.
+
+3 - Fatorial de um Número com Recursão
+Escreva uma função recursiva que calcule o fatorial de um número.
+
+4 - Máximo Divisor Comum (MDC) com Recursão
+Escreva uma função recursiva que calcule o máximo divisor comum (MDC) entre dois números naturais.
+
+Observação: Dois números naturais sempre têm divisores comuns. O MDC é o maior deles.
+
+Observação : Dois números naturais sempre têm divisores comuns. Assim, o máximo divisor comum entre os dois é o maior de seus divisores.
+
+5 - Inverter uma String com Recursão
+Escreva uma função recursiva que inverta uma string.
+
+6 - Potenciação com Recursão
+Escreva uma função recursiva que calcule o valor de a elevado à b, com a e b inteiros.
+
+7 - Problema da Torre de Hanói com Recursão
+
+O problema da Torre de Hanói consiste de três pinos, A, B e C, denominados : origem, destino e trabalho, respectivamente, e n discos de diâmetros diferentes.
+
+Inicialmente, todos os discos se encontram empilhados no pino origem, em ordem decrescente de tamanho, de baixo para cima. O objetivo é empilhar todos os discos no pino destino, atendendo às seguintes restrições:
+Apenas um disco pode ser removido de cada vez.
+Qualquer disco não pode ser jamais colocado sobre outro de tamanho menor.
